@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "グラーヴェ",
+  "base_artist": "niki",
+  "createdAt": "2025-12-23T10:07:01.480190Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "グラーヴェ",
+      "artist": "Niki",
+      "has_synced": true,
+      "path": "select/01_グラーヴェ_Niki.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "グラーヴェ",
+      "artist": "niki/Pei_培",
+      "has_synced": true,
+      "path": "select/02_グラーヴェ_niki_Pei_培.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "グラーヴェ",
+      "artist": "Niki",
+      "has_synced": false,
+      "path": "select/pl_01_グラーヴェ_Niki.txt"
+    }
+  ]
+}
